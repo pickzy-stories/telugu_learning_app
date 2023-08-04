@@ -14,6 +14,9 @@ DevTools version 2.12.2
 
 Tools: 
 https://apptoolkit.io/
+https://studio.app-mockup.com/
+https://easyappicon.com/ 
+
 
 
 A few resources to get you started if this is your first Flutter project:
